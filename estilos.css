@@ -1,0 +1,29 @@
+.nav{
+    height: 60px;
+    background-color: #DFCEF2;
+    margin-bottom: 30px;
+}
+.banners{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+    border-radius: 20%;
+}
+.ba{
+    background-color: white;
+    margin: 50px;
+    width: 30%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;    
+}
+.ba p{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-weight: 600;
+    margin: 33px 0;
+}
